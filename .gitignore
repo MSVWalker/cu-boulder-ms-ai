@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/
+**/data/
+**/models/
+.DS_Store
+.env
+*.mp4

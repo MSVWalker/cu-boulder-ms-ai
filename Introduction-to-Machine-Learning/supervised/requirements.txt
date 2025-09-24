@@ -1,0 +1,9 @@
+python==3.11.*
+jupyterlab
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+imbalanced-learn
