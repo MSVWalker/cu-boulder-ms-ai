@@ -1,10 +1,11 @@
-# Bellingham Property Price Prediction (Supervised Learning)
+# 🏡 Bellingham Property Price Prediction (Supervised Learning)
 
 **Author:** Michael Walker  
 **Date:** October 6, 2025  
-**Video (YouTube):** https://youtu.be/f08v8g7KcBM  
-**Notebook (GitHub):** https://github.com/MSVWalker/cu-boulder-ms-ai/blob/39220bbca46c148526563a6d7f418700240718fe/Introduction-to-Machine-Learning/supervised/Supervised_Learning_Project.ipynb
-The project is implemented in a single Jupyter notebook: `Supervised_Learning_Project.ipynb`.
+
+📺 **Video Presentation:** [YouTube Link](https://youtu.be/f08v8g7KcBM)  
+📓 **Full Notebook:** [View on GitHub](https://github.com/MSVWalker/cu-boulder-ms-ai/blob/39220bbca46c148526563a6d7f418700240718fe/Introduction-to-Machine-Learning/supervised/Supervised_Learning_Project.ipynb)
+
 ---
 
 
