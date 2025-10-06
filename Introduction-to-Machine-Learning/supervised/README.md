@@ -1,8 +1,12 @@
 # Bellingham Property Price Prediction (Supervised Learning)
 
-This repository contains a supervised learning project to predict residential property prices in Bellingham, WA. The workflow covers data cleaning, exploratory data analysis (EDA), feature engineering, model training, evaluation, and discussion of insights and limitations.
-
+**Author:** Michael Walker  
+**Date:** October 6, 2025  
+**Video (YouTube):** https://youtu.be/f08v8g7KcBM  
+**Notebook (GitHub):** https://github.com/MSVWalker/cu-boulder-ms-ai/blob/39220bbca46c148526563a6d7f418700240718fe/Introduction-to-Machine-Learning/supervised/Supervised_Learning_Project.ipynb
 The project is implemented in a single Jupyter notebook: `Supervised_Learning_Project.ipynb`.
+---
+
 
 ## Contents
 
@@ -79,4 +83,8 @@ jupyter lab  # or: jupyter notebook
 - `README_SUPERVISED.md` — this README describing the supervised learning project.
 
 
+## Deliverables
 
+- 📓 [Jupyter Notebook](https://github.com/MSVWalker/cu-boulder-ms-ai/blob/main/Introduction-to-Machine-Learning/supervised/Supervised_Learning_Project.ipynb)
+- 🎥 [Video Presentation](https://youtu.be/your_video_link_here)
+- 📂 [GitHub Repository](https://github.com/MSVWalker/cu-boulder-ms-ai/tree/main/Introduction-to-Machine-Learning/supervised)
