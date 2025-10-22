@@ -1,0 +1,14 @@
+histopathologic-cancer-detection/
+cache_*/
+cache_64/
+cash_64/
+checkpoints/
+*.pth
+*.pt
+*.bin
+*.ckpt
+submission*.csv
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+__pycache__/
