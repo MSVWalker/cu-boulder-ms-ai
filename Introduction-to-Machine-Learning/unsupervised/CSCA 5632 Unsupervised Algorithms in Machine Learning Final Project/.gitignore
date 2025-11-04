@@ -1,0 +1,12 @@
+# Exclude raw/derived datasets
+data/
+
+# Exclude data-building notebook
+Data Building.ipynb
+
+# Optional: OS/editor cruft
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
